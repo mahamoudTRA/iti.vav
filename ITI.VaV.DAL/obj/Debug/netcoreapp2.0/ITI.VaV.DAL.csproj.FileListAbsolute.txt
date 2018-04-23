@@ -1,0 +1,6 @@
+Z:\DossierIntech\DossierS4\PI\VAV Project\ITI.VaV\ITI.VaV.DAL\bin\Debug\netcoreapp2.0\ITI.VaV.DAL.deps.json
+Z:\DossierIntech\DossierS4\PI\VAV Project\ITI.VaV\ITI.VaV.DAL\bin\Debug\netcoreapp2.0\ITI.VaV.DAL.dll
+Z:\DossierIntech\DossierS4\PI\VAV Project\ITI.VaV\ITI.VaV.DAL\obj\Debug\netcoreapp2.0\ITI.VaV.DAL.csprojResolveAssemblyReference.cache
+Z:\DossierIntech\DossierS4\PI\VAV Project\ITI.VaV\ITI.VaV.DAL\obj\Debug\netcoreapp2.0\ITI.VaV.DAL.csproj.CoreCompileInputs.cache
+Z:\DossierIntech\DossierS4\PI\VAV Project\ITI.VaV\ITI.VaV.DAL\obj\Debug\netcoreapp2.0\ITI.VaV.DAL.AssemblyInfoInputs.cache
+Z:\DossierIntech\DossierS4\PI\VAV Project\ITI.VaV\ITI.VaV.DAL\obj\Debug\netcoreapp2.0\ITI.VaV.DAL.AssemblyInfo.cs
